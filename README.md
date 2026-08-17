@@ -42,11 +42,14 @@ Message and data rates may apply depending on your mobile carrier plan.
 
 4. Sharing of Information
 
-We do not sell, rent, or share your personal information with third parties for marketing purposes.
+SMS Opt-In Data and Personal Information
+Consumer SMS opt-in data and related personal information will not be transferred, shared, sold, or disclosed to external organizations under any circumstances, except where required by law.
 
-We may share information only with trusted vendors or service providers who assist us in delivering SMS communications and related services, and only as necessary to provide those services.
+Service Providers and External Parties
+We do not share consumer SMS opt-in data or related personal information with trusted vendors, service providers, or other external organizations.
 
-We may also disclose information if required by law, regulation, or legal process.
+Safeguards Against Unauthorized Access and Sharing
+We maintain appropriate safeguards to protect consumer SMS opt-in data and related personal information from unauthorized access, use, or sharing.
 
 5. Protection of Information
 
